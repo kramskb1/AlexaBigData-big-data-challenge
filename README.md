@@ -5,7 +5,7 @@ I was sure to handle the header correctly. If I read the file without the header
 
 I showed the data for video games in my Colab file. I showed the count of the data which was 1,785,997. I printed the schema. I transformed the dataframe to fit the data review table. The columns I was interested in were review_id, customer_id, product_id, product_parent, and review_date. I dropped the duplicates. I transformed the dataframe to fit the products table. I dropped the duplicates and printed the schema. I transformed the dataframe to fit the customers table. I found the count of each customer id. I transformed the dataframe to fit the vine table. 
 	
-Out of the video games that I showed there were mixed reviews. 
+Out of the video games that I showed there were mixed reviews. Thrustmaster and Tonsee 6 Buttons were popular. Zero Suit Samus was good. Geltabz Performance was average. Hidden Mysteries was not popular. 
 
 
 
