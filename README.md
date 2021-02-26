@@ -7,6 +7,8 @@ I showed the data for video games in my Colab file. I showed the count of the da
 	
 Out of the video games that I showed there were mixed reviews. Thrustmaster and Tonsee 6 Buttons were popular. Zero Suit Samus was good. Geltabz Performance was average. Hidden Mysteries was not popular. 
 
+I showed the data for musical instruments in my other Colab file. I showed the count of the data which was 904,765. I printed the schema. I transformed the dataframe to fit the data review table. The columns I was interested in were review_id, customer_id, product_id, product_parent, and review_date. 
+
 
 
 
